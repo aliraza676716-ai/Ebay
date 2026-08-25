@@ -1,0 +1,7 @@
+{
+  "name": "ebya - Personal Image Vault & Folder Manager",
+  "description": "Personal image vault and folder manager with secure PIN locks, nested folders, recycle bin, tag search, and Node.js backend storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
